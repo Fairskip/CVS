@@ -22,7 +22,7 @@ suis assez patiente.</justify>
 Octobre 20xx  
 
 ❧ **COMPÉTENCE NUMÉRIQUE**  
-AFO Formation, Paris.  
+*AFO Formation, Paris.*  
 Septembre 20xx  
   
 ❧ **CHÉQUIER BUREAUTIQUE**  
