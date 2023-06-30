@@ -1,4 +1,4 @@
-# Fair Skip
+# FairSkip
 
 ## Technicien supérieur systèmes et réseaux
 
@@ -18,43 +18,43 @@ suis assez patiente.</justify>
 ### **F O R M A T I O N S**
 
 ❧ **PARCOURS D’ACCÈS À LA QUALIFICATION DU SECTEUR MAINTENANCE INFORMATIQUE ET BUREAUTIQUE**  
-*G2R Formation, Paris 11e.*  
-Octobre 2022  
+*AFO Formation, Paris*  
+Octobre 20xx  
 
 ❧ **COMPÉTENCE NUMÉRIQUE**  
-G2R Formation, Paris 11e.  
-Septembre 2022  
+AFO Formation, Paris.  
+Septembre 20xx  
   
 ❧ **CHÉQUIER BUREAUTIQUE**  
-*Traitement de Texte et Tableur, Greta (93)*  
-2008  
+*Traitement de Texte et Tableur, OFA (06)*  
+20xx  
   
 ❧ **BACCALAURÉAT SCIENCES MÉDICO-SOCIALES**    
-*Mention Assez Bien, Lycée V. , Aulnay-sous-bois*    
-1996
+*Mention Assez Bien, Lycée V. , AllMight Town*    
+19xx
 
 ***
 
 ### **E X P E R I E N C E**
 
 ❧ **AUXILIAIRE DE BUREAU (CAE)**  
-*Service des Impôts des Particuliers du 19eme
-arrondissement, Paris (75)*  
-Novembre 2013
+*Service des Impôts des Heroes du xxeme
+arrondissement, Paris*  
+Novembre 20xx
 * Accueillir
 * Orienter
 * Renseigner et distribuer des tickets aux contribuable
 
 ❧ **ADJOINT ADMINISTRATIF (CAE)**
-*Hôpital Robert Ballanger, Aulnay-sous-Bois (93)
-2011-2012*
+*Hôpital Destiny, AllMight Town
+20xx-20xx*
 * Répartition du courrier
 * Classement et archivage
 * Préparation des dossiers de sortie
 * Prise de rendez-vous...
 
 ❧ **AIDE ADMINISTRATIVE**
-  *Collège Gérard Philipe, Aulnay-sous-Bois (93)*
+  *Collège Hero, AllMight Town (06)*
 2007 - 2009
 * Tâche administratives
 * Responsable de reprographie pour le personnel enseignant de l’établissement.
